@@ -20,7 +20,7 @@ This is a 3D interactive **Virtual Campus Tour** application created as a mini p
 
 - `VirtualCampusTour.pptx` – Project presentation  
 - `VirtualCampusTour.exe` – Final standalone application build  
-- (Optional) Add flowcharts, test cases, or documentation PDFs  
+- `cmpustour_td.dox` - full documentation including flowcharts, test cases, or documentation PDFs  
 
 ---
 
