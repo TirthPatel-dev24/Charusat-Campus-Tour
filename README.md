@@ -18,10 +18,10 @@ This is a 3D interactive **Virtual Campus Tour** application created as a mini p
 
 ## 📂 Project Files
 
-- `VirtualCampusTour.pptx` – Project presentation  
-- `VirtualCampusTour.exe` – Final standalone application build  
-- `cmpustour_td.dox` - full documentation including flowcharts, test cases, or documentation PDFs  
-
+- `Campus Tour.pptx` – Project presentation
+- `cmpustour_td.dox` - full documentation including flowcharts, test cases and more...
+- `CampusTour.exe` – Final standalone application build u can install and run on your windows
+  
 ---
 
 ## 🛠 Built With
@@ -46,6 +46,7 @@ This is a 3D interactive **Virtual Campus Tour** application created as a mini p
 ---
 
 ## 👨‍💻 Contributors
+
 
 -Tirth Patel 
 -Dhruv Pandya
